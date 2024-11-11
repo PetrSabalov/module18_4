@@ -20,7 +20,7 @@ from django.contrib import admin
 from django.urls import path
 from django.contrib import admin
 from django.urls import path
-from task3.views import platform, games, cart
+from task4.views import platform, games, cart
 from django.views.generic import TemplateView
 
 urlpatterns = [
